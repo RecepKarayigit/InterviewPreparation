@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "projectUniqueName": "T:\\InterviewPreparation\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
       "projectName": "Play.Catalog.Service",
-      "projectPath": "T:\\projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "projectPath": "T:\\InterviewPreparation\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
       "packagesPath": "C:\\Users\\rkarayigit\\.nuget\\packages\\",
-      "outputPath": "T:\\projects\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+      "outputPath": "T:\\InterviewPreparation\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
